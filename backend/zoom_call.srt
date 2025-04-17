@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:02,960
+and I should have changed the text, but that's fine.
+
+2
+00:00:02,960 --> 00:00:04,040
+It was sent the request.
+
+3
+00:00:04,040 --> 00:00:06,080
+And you will get this response from OpenAI
+
+4
+00:00:06,080 --> 00:00:07,040
+just taking some time.
+
+5
+00:00:07,040 --> 00:00:10,440
+And you can see in this case, the cloud was fastest.
+
+6
+00:00:10,440 --> 00:00:13,320
+So we also have done the speed.
+
+7
+00:00:13,320 --> 00:00:15,240
+Again, this changes based on your prompts
+
+8
+00:00:15,240 --> 00:00:17,320
+and the type of question you ask.
+
+9
+00:00:17,320 --> 00:00:20,520
+So in this case, it was cloud and we got the answer here.
+

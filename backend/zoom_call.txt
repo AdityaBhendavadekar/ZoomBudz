@@ -1,0 +1,9 @@
+and I should have changed the text, but that's fine.
+It was sent the request.
+And you will get this response from OpenAI
+just taking some time.
+And you can see in this case, the cloud was fastest.
+So we also have done the speed.
+Again, this changes based on your prompts
+and the type of question you ask.
+So in this case, it was cloud and we got the answer here.

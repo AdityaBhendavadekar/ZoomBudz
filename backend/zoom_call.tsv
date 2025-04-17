@@ -1,0 +1,10 @@
+start	end	text
+0	2960	and I should have changed the text, but that's fine.
+2960	4040	It was sent the request.
+4040	6080	And you will get this response from OpenAI
+6080	7040	just taking some time.
+7040	10440	And you can see in this case, the cloud was fastest.
+10440	13320	So we also have done the speed.
+13320	15240	Again, this changes based on your prompts
+15240	17320	and the type of question you ask.
+17320	20520	So in this case, it was cloud and we got the answer here.
