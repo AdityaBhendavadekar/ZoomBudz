@@ -1,6 +1,8 @@
 import whisper
 import pyaudio
 import numpy as np
+import tempfile
+import wave
 
 # Audio recording parameters
 RATE = 44100  # Sample rate (matches Zoom's output)
@@ -14,6 +16,16 @@ def list_input_devices():
         info = p.get_device_info_by_index(i)
         print(f"{i}: {info['name']}")
     p.terminate()
+
+def save_audio_to_wav(audio_data, rate):
+    """Save audio data to a temporary WAV file."""
+    with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as temp_wav:
+        with wave.open(temp_wav.name, 'wb') as wf:
+            wf.setnchannels(1)  # Mono audio
+            wf.setsampwidth(2)  # 16-bit audio
+            wf.setframerate(rate)
+            wf.writeframes(audio_data)
+        return temp_wav.name
 
 def transcribe_zoom_audio(device_index=None):
     """Capture audio from Zoom and transcribe it in real-time using Whisper."""
@@ -40,12 +52,14 @@ def transcribe_zoom_audio(device_index=None):
 
     try:
         while True:
-            # Read audio data from the virtual cable
-            audio_data = stream.read(CHUNK, exception_on_overflow=False)
-            audio_np = np.frombuffer(audio_data, dtype=np.int16).astype(np.float32) / 32768.0
+            # Read audio data
+            audio_data = stream.read(CHUNK)
+
+            # Save audio to a temporary WAV file
+            wav_path = save_audio_to_wav(audio_data, RATE)
 
             # Transcribe audio using Whisper
-            result = model.transcribe(audio_np, fp16=False)
+            result = model.transcribe(wav_path, fp16=False)
             print(f"Transcript: {result['text']}")
     except KeyboardInterrupt:
         print("Exiting...")

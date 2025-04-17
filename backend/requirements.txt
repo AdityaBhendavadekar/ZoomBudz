@@ -1,1 +1,3 @@
-whisper
+pyaudio
+whisper @ git+https://github.com/openai/whisper.git
+torch  # Add this if you are using GPU acceleration
