@@ -1,9 +1,13 @@
-and I should have changed the text, but that's fine.
-It was sent the request.
-And you will get this response from OpenAI
-just taking some time.
-And you can see in this case, the cloud was fastest.
-So we also have done the speed.
-Again, this changes based on your prompts
-and the type of question you ask.
-So in this case, it was cloud and we got the answer here.
+the number of features being added to a language is going up and that's the reason I'm going
+to really call the entire course. Now this is a full-fledged course and that's why it's so lengthy
+but you cannot finish the entire course in one day even if it says 12 hours or 13 hours it will
+take time. Now let's talk about Java. Now why Java is so famous? Now if you see the programming index
+the top 5 programming language you will always find Java there maybe at the first position or at
+the fourth position you will find Java. Why Java is so famous is because Java has multiple features
+which helps it to be used in the enterprise market. I mean not just enterprise market it can be used
+for mobile development web development and of course enterprise application and most of the big
+companies if you go there they are using Java as their preferred language. Now in Java we have
+a technology called JVM and it's not just Java we have multiple languages running on JVM so even if
+you are working on some other languages let's say Kotlin, Scala, Groovy, ultimately you're working
+on Java technology and that's why if you learn Kojava it is much easier for you to jump to different
+languages and I've also observed irrespective of which interior going.

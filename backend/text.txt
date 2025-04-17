@@ -1,0 +1,100 @@
+(env) PS E:\aditya\Zoom Integration\backend> python audio.py
+Recording chunk: audio_chunks/chunk_1.wav...
+Saved chunk to audio_chunks/chunk_1.wav
+Transcribing audio_chunks/chunk_1.wav...
+E:\aditya\Zoom Integration\backend\env\lib\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcription:  C sharp C++, they might ask you Java questions because most of the interview questions are based on Java because they feel that if you know Java, that means you know other languages as well or you can learn other languages easily. As for my experience or did I forgot to introduce myself, my name is Evan Reddy, I am a corporate trainer, software developer and currently focusing more on blockchain, but Java is my first class. So I am working on Java for the last 12 years. I have made multiple courses on Java on YouTube and different platforms and yeah, I can teach Java any day, any time. Yeah, sometimes I have to watch my own videos today, why is the concept? But the thing is I love Java and with this experience, I am making the entire course. I was talking about my experience, right? In fact, I have learned multiple languages in this all 12 years, maybe I have worked on 12 different languages. You can name it, maybe C++, C Python, Java, JavaScript, Go language. So I love most of the languages. Some languages are learned just for the projects, but then when I was learning those languages, I was feeling hate, it's so easy. It's because I have learned Java. Yes, people say Java is difficult. Yes, to start with it is difficult. Maybe if you want to learn Java is your first language, it kind of difficult because if you are coming from other languages, let's say Python or JavaScript and if you want to print one statement, you can actually see that in one line. That's not the case with Java, right? You have to write five lines of code. But yes, once you make a big application, the number of lines will remain almost same. Okay? So Java is difficult. Yes, just to start with, but the thing is Java is one of the most readable language. What I mean by that is if you are looking at someone else's code, you can read the Java code line by line. That's not true with other languages. Okay? So Java is great in that terms. Java is maintainable and maybe that's why most of the industries are preferring to use Java. Now Java has multiple features. We'll talk about those.
+Chunk 1 Transcription:
+ C sharp C++, they might ask you Java questions because most of the interview questions are based on Java because they feel that if you know Java, that means you know other languages as well or you can learn other languages easily. As for my experience or did I forgot to introduce myself, my name is Evan Reddy, I am a corporate trainer, software developer and currently focusing more on blockchain, but Java is my first class. So I am working on Java for the last 12 years. I have made multiple courses on Java on YouTube and different platforms and yeah, I can teach Java any day, any time. Yeah, sometimes I have to watch my own videos today, why is the concept? But the thing is I love Java and with this experience, I am making the entire course. I was talking about my experience, right? In fact, I have learned multiple languages in this all 12 years, maybe I have worked on 12 different languages. You can name it, maybe C++, C Python, Java, JavaScript, Go language. So I love most of the languages. Some languages are learned just for the projects, but then when I was learning those languages, I was feeling hate, it's so easy. It's because I have learned Java. Yes, people say Java is difficult. Yes, to start with it is difficult. Maybe if you want to learn Java is your first language, it kind of difficult because if you are coming from other languages, let's say Python or JavaScript and if you want to print one statement, you can actually see that in one line. That's not the case with Java, right? You have to write five lines of code. But yes, once you make a big application, the number of lines will remain almost same. Okay? So Java is difficult. Yes, just to start with, but the thing is Java is one of the most readable language. What I mean by that is if you are looking at someone else's code, you can read the Java code line by line. That's not true with other languages. Okay? So Java is great in that terms. Java is maintainable and maybe that's why most of the industries are preferring to use Java. Now Java has multiple features. We'll talk about those.
+Recording chunk: audio_chunks/chunk_2.wav...
+Saved chunk to audio_chunks/chunk_2.wav
+Transcribing audio_chunks/chunk_2.wav...
+Transcription:  history of Java was made in 1995 by Sun Microsystem and it was led by the team of James Gosling. Later on Oracle bought Sun so now the trademark of Java belongs to Oracle. Yes in between Oracle did some messed up things with Java but yeah they are back on track and the beauty is Java is getting updated in every 6 months. Not the major updates but they are working hard to make Java as a most powerful language. So I hope you are excited for the entire course we are going to start from the basic as I mentioned and you will learn a lot of different stuff but as I mentioned it's not about completing the entire course in one day. You can use a timeline to jump between these sections and also with this we also have a code there. So in the description you will find the link GitHub link where you can access all the codes and maybe it will help it will be helpful for you to write this code. So let's start the journey. I know you are excited to write your first Java code but the thing is to write the Java code you need a place to write the code right so basically you need a editor. Of course notepad works right we all love notepad. Apart from notepad we have multiple softwares using which you can write your Java code maybe you can use what pad or you can use notepad plus plus you can use edit plus. Where it comes to programming there are multiple editor options available. Specifically for Java the one of the most famous IDE. Now IDE stands for integrated development environment. So basically we have editors where you can only type the code or you can use a IDE where you can type the code where you can run the code where you can compile the code where you can debug the code and you can do everything in an IDE. Now we just got now for beginners using editor makes sense but then if you are working on a real project you can use IDE. Now it is depend upon you which IDE you want to use in this course we are going to use VS code. Now there are multiple options available we have Eclipse, IntelliJ IDEA we have netbeans. In fact I have worked on a lot on
+Chunk 2 Transcription:
+ history of Java was made in 1995 by Sun Microsystem and it was led by the team of James Gosling. Later on Oracle bought Sun so now the trademark of Java belongs to Oracle. Yes in between Oracle did some messed up things with Java but yeah they are back on track and the beauty is Java is getting updated in every 6 months. Not the major updates but they are working hard to make Java as a most powerful language. So I hope you are excited for the entire course we are going to start from the basic as I mentioned and you will learn a lot of different stuff but as I mentioned it's not about completing the entire course in one day. You can use a timeline to jump between these sections and also with this we also have a code there. So in the description you will find the link GitHub link where you can access all the codes and maybe it will help it will be helpful for you to write this code. So let's start the journey. I know you are excited to write your first Java code but the thing is to write the Java code you need a place to write the code right so basically you need a editor. Of course notepad works right we all love notepad. Apart from notepad we have multiple softwares using which you can write your Java code maybe you can use what pad or you can use notepad plus plus you can use edit plus. Where it comes to programming there are multiple editor options available. Specifically for Java the one of the most famous IDE. Now IDE stands for integrated development environment. So basically we have editors where you can only type the code or you can use a IDE where you can type the code where you can run the code where you can compile the code where you can debug the code and you can do everything in an IDE. Now we just got now for beginners using editor makes sense but then if you are working on a real project you can use IDE. Now it is depend upon you which IDE you want to use in this course we are going to use VS code. Now there are multiple options available we have Eclipse, IntelliJ IDEA we have netbeans. In fact I have worked on a lot on
+Recording chunk: audio_chunks/chunk_3.wav...
+Saved chunk to audio_chunks/chunk_3.wav
+Transcribing audio_chunks/chunk_3.wav...
+Transcription:  which is awesome is a paid version. The committee version is good, but it has some limited features. Now why we are using VS code is because it's a very lightweight editor or an IDE. So you can do everything in VS code and it's also lightweight. Okay, apart from that, you also need a compiler, right? So of course, when you write a code, of course you have to compile your code so that you, how much you can understand that. And in terms of Java, we have to download JDK, which stands for Java development kit. Now how do you get this to software? It's very simple, just go to your browser and search for JDK download. And also you can search for VS code. So these are two software we're going to use. Let's start with JDK first. In JDK, we have two versions. We have a proprietary JDK of Oracle and we have our open source version. In fact, there are multiple implementation for open source. You can choose any of them. We have Correto, we have different implementation. You can just explore them. But I'm going to use Oracle JDK here. Yes, at one point, Oracle made a Java page, but now it's free again. So we can use Oracle JDK here. And you can just click on the Java downloads and you can see it will give you multiple options. The thing is, at the point of this recording, Java 19 already launched, Java 20 is going to release soon. And with every new version, in fact, Java is following this six months updates now. So every six months you will get new updates, right? So with every new update, you will get some features, but the basic language will remain same. So irrespective, if you are watching this, when we have Java 25, don't worry, Java is backward compatible and the basic language features will be same. Of course, there will be a minute to X in the new updates, new features. But, Oracle, it will be same. In case if there is something new happening, which is changing the basic concept, we are going to re-record that video in the cities. Okay, now which one was going to choose here? Should we go for Java 19 or Java 17? The thing is, with every six months, you get new features, right? But not every version.        
+Chunk 3 Transcription:
+ which is awesome is a paid version. The committee version is good, but it has some limited features. Now why we are using VS code is because it's a very lightweight editor or an IDE. So you can do everything in VS code and it's also lightweight. Okay, apart from that, you also need a compiler, right? So of course, when you write a code, of course you have to compile your code so that you, how much you can understand that. And in terms of Java, we have to download JDK, which stands for Java development kit. Now how do you get this to software? It's very simple, just go to your browser and search for JDK download. And also you can search for VS code. So these are two software we're going to use. Let's start with JDK first. In JDK, we have two versions. We have a proprietary JDK of Oracle and we have our open source version. In fact, there are multiple implementation for open source. You can choose any of them. We have Correto, we have different implementation. You can just explore them. But I'm going to use Oracle JDK here. Yes, at one point, Oracle made a Java page, but now it's free again. So we can use Oracle JDK here. And you can just click on the Java downloads and you can see it will give you multiple options. The thing is, at the point of this recording, Java 19 already launched, Java 20 is going to release soon. And with every new version, in fact, Java is following this six months updates now. So every six months you will get new updates, right? So with every new update, you will get some features, but the basic language will remain same. So irrespective, if you are watching this, when we have Java 25, don't worry, Java is backward compatible and the basic language features will be same. Of course, there will be a minute to X in the new updates, new features. But, Oracle, it will be same. In case if there is something new happening, which is changing the basic concept, we are going to re-record that video in the cities. Okay, now which one was going to choose here? Should we go for Java 19 or Java 17? The thing is, with every six months, you get new features, right? But not every version.
+Recording chunk: audio_chunks/chunk_4.wav...
+
+Recording interrupted by user.
+Saved chunk to audio_chunks/chunk_4.wav
+Transcribing audio_chunks/chunk_4.wav...
+Transcription:  which OS you are using, I'm using Windows here, or for the
+Chunk 4 Transcription:
+ which OS you are using, I'm using Windows here, or for the
+Recording chunk: audio_chunks/chunk_5.wav...
+
+Recording interrupted by user.
+Saved chunk to audio_chunks/chunk_5.wav
+Transcribing audio_chunks/chunk_5.wav...
+Traceback (most recent call last):
+  File "E:\aditya\Zoom Integration\backend\audio.py", line 86, in <module>
+    main()
+  File "E:\aditya\Zoom Integration\backend\audio.py", line 79, in main
+    transcription = transcribe_audio(chunk_filename)
+  File "E:\aditya\Zoom Integration\backend\audio.py", line 57, in transcribe_audio
+    model = whisper.load_model("base")  # Use "tiny", "base", "small", "medium", or "large"       
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\whisper\__init__.py", line 150, in load_model
+    checkpoint = torch.load(fp, map_location=device)
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1462, in load
+    return _load(
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1964, in _load
+    result = unpickler.load()
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\_weights_only_unpickler.py", line 512, in load
+    self.append(self.persistent_load(pid))
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1928, in persistent_load
+    model = whisper.load_model("base")  # Use "tiny", "base", "small", "medium", or "large"       
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\whisper\__init__.py", line 150, in load_model
+    checkpoint = torch.load(fp, map_location=device)
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1462, in load
+    return _load(
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1964, in _load
+    result = unpickler.load()
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\_weights_only_unpickler.py", line 512, in load
+    self.append(self.persistent_load(pid))
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1928, in persistent_load
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\whisper\__init__.py", line 150, in load_model
+    checkpoint = torch.load(fp, map_location=device)
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1462, in load
+    return _load(
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1964, in _load
+    result = unpickler.load()
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\_weights_only_unpickler.py", line 512, in load
+    self.append(self.persistent_load(pid))
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1928, in persistent_load
+    checkpoint = torch.load(fp, map_location=device)
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1462, in load
+    return _load(
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1964, in _load
+    result = unpickler.load()
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\_weights_only_unpickler.py", line 512, in load
+    self.append(self.persistent_load(pid))
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1928, in persistent_load
+2, in load
+    return _load(
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1964, in _load
+    result = unpickler.load()
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\_weights_only_unpickler.py", line 512, in load
+    self.append(self.persistent_load(pid))
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1928, in persistent_load
+4, in _load
+    result = unpickler.load()
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\_weights_only_unpickler.py", line 512, in load
+    self.append(self.persistent_load(pid))
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1928, in persistent_load
+, line 512, in load
+    self.append(self.persistent_load(pid))
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1928, in persistent_load
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1928, in persistent_load
+8, in persistent_load
+    typed_storage = load_tensor(
+  File "E:\aditya\Zoom Integration\backend\env\lib\site-packages\torch\serialization.py", line 1888, in load_tensor
+    zip_file.get_storage_from_record(name, numel, torch.UntypedStorage)
+KeyboardInterrupt
+(env) PS E:\aditya\Zoom Integration\backend> ^C
+(env) PS E:\aditya\Zoom Integration\backend>
