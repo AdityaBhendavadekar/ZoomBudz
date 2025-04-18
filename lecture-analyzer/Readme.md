@@ -12,5 +12,8 @@ This is the frontend for the Zoom Audio Recorder application, built using **Elec
 - **Electron.js** installed as a development dependency.
 
 ---
+## Install dependencies
+npm install
 
-## 📂 Project Structure
+### Run 
+npm start
