@@ -19,7 +19,7 @@ def list_input_devices():
         info = p.get_device_info_by_index(i)
         print(f"{i}: {info['name']}")
     p.terminate()
-    
+     
 def record_audio_chunk(output_filename, device_index, record_seconds):
     """Record a chunk of audio and save it to a file."""
     p = pyaudio.PyAudio()       
