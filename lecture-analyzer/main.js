@@ -8,8 +8,9 @@ app.on('ready', () => {
         width: 800,
         height: 600,
         webPreferences: {
-            preload: path.join(__dirname, 'renderer.js'),
-            nodeIntegration: true
+            preload: path.join(__dirname, 'renderer.js'), // Correct path to renderer.js
+            nodeIntegration: true, // Enable Node.js integration
+            contextIsolation: false // Disable context isolation for simplicity
         }
     });
 
