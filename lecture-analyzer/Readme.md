@@ -13,7 +13,9 @@ This is the frontend for the Zoom Audio Recorder application, built using **Elec
 
 ---
 ## Install dependencies
-npm install
+- npm install
 
 ### Run 
-npm start
+- npm start
+
+- Click on start recording 
