@@ -1,0 +1,20 @@
+/backend/env
+/backend/__pycache__
+/backend/audio_chunks
+/backend/.env
+
+# Ignore Python cache files
+__pycache__/
+# Ignore Python virtual environment
+venv/
+
+*.wav
+*.srt
+*.tsv
+*.json
+*.txt
+backend/audio.py
+backend/audio2.py
+backend/audio3.py
+
+lecture-analyzer/node_modules
