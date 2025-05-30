@@ -1,1 +1,1 @@
- on YouTube and different platforms.
+ the head element and then the body element and they're separated by spaces, very easy to read. And we have a title inside of the head. Again the title will not be seen inside of the browser in the body of the page, but I will show you very shortly where we do see it. Inside of the body element though, let's put an H1 element, which stands for a heading and it is the biggest heading
